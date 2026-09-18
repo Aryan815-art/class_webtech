@@ -1,0 +1,39 @@
+body
+{
+	background-color:blue;
+}
+h1
+{
+	color:blue;
+	background-color:black;
+	border: 5px solid white;
+	font-family:jokerman;
+	font-size:150px;
+	font-weight:70px;
+	text-decoration:italic;
+	text-shadow:10px 10px 15px ;
+	text-decoration:underline;
+	text-decoration-color:white;
+}
+p
+{
+	text-indent: 50px;
+	word-spacing:30px;
+	text-align:justify;
+	border: 5px solid blue;
+	color:blue;
+	background-color:green;
+	font-size:30px;
+}
+h2
+{
+	border: 5px solid pink;
+	text-decoration:underline;
+	text-decoration-color:pink;
+	font-family:PrimaryFont; 
+	font-variant:small-caps;
+	text-transform:uppercase;
+	text-align:center;
+	font-size:125px;
+	
+}
