@@ -1,0 +1,51 @@
+body
+{
+	background-color:lightgreen;
+	background-image: url('batmaan.jpg');
+	background-size: cover;
+	
+}
+p
+{
+	border-style:inset;
+	background-color:green;
+	color:white;
+	border: 5px solid black ;
+	border-bottom-width: 5px;
+	border-bottom-color: yellow;
+	border-top-color:yellow;
+	border-collapse: inherit;
+	font-size:30px;
+	font-family:italic;
+	text-shadow:7px 10px 15px;
+	background-image: url('batman.jpg') ;
+	background-size: cover;
+}
+h1
+{
+	text-shadow:8px 8px 20px;
+	background-color:green;
+	border: 5px solid black ;
+	border-bottom-width: 5px;
+	border-bottom-color: yellow;
+	border-top-color:yellow;
+	font-size:70px;
+	text-align:center;
+	border-style:inset;
+	font-family:oblique;
+	background-image: url('batman.jpg');
+	
+}
+h2
+{
+	background-color:green;
+	border: 5px solid black ;
+	border-bottom-width: 5px;
+	border-bottom-color: yellow;
+	border-top-color:yellow;
+	font-size:50px;
+	font-family:jokerman;
+	background-image: url('batman.jpg');
+	text-align:center;
+	text-shadow: 5px 5px 10px;
+}
