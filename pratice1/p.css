@@ -1,0 +1,14 @@
+table
+{
+	border:2;
+	border-color:green;
+	box-shadow:12px 12px 20px;
+	text-align:center;
+	border-style:dotted;
+	background-color:gray;
+
+}
+#class
+{
+	background-color:green;
+}
